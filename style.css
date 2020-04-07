@@ -1,0 +1,59 @@
+.page {
+  padding-top: 15%;
+  padding-left: 35%;
+  width: 30%;
+}
+
+.logo {
+  text-align: center;
+}
+
+.logo img {
+  max-width: 100%;
+}
+
+input {
+  width: 100%;
+}
+
+.btn {
+  margin-top: 10px;
+  cursor: pointer;
+  width: 35%;
+}
+
+.search {
+  margin-left: 15%;
+}
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 30px;
+  background-color: #f2f2f2;
+  display: inline-block;
+  padding-top: 10px;
+}
+
+footer a {
+  text-decoration: none;
+  color: #2f4f4f;
+  padding-left: 15px;
+}
+
+footer a:hover {
+  color: black;
+}
+
+.left-ft {
+  display: inline-block;
+  margin-left: 10px;
+}
+
+.right-ft {
+  padding-right: 20px;
+  float: right;
+  display: inline-block;
+}
